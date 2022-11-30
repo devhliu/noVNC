@@ -17,7 +17,7 @@ import Keyboard from "../core/input/keyboard.js";
 import RFB from "../core/rfb.js";
 import * as WebUtil from "./webutil.js";
 
-const PAGE_TITLE = "noVNC";
+const PAGE_TITLE = "VSPACE";
 
 const UI = {
 
